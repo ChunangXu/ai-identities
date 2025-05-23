@@ -5,3 +5,5 @@ package.json
 .vscode
 *.env
 *.toml
+venv
+ollama*
