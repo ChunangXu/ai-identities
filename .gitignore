@@ -6,4 +6,5 @@ package.json
 *.env
 *.toml
 venv
-ollama*
+ollama
+ollama-linux-amd64.tgz
